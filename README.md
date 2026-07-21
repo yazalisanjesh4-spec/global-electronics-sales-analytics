@@ -135,6 +135,7 @@ The dataset was imported from multiple CSV files and modeled using relationships
 - Business Reporting
 
 ## 📁 Repository Structure
+```
 global-electronics-sales-analytics/
 │
 ├── README.md
@@ -157,6 +158,7 @@ global-electronics-sales-analytics/
 │   └── data_model.png
 │
 └── insights.md
+ ```
 
 ## 🚀 Future Improvements
 
@@ -205,9 +207,9 @@ Aspiring Data Analyst
 
 Skills:
 
-SQL
-Excel
-Power BI
-Data Analytics
+- SQL
+- Excel
+- Power BI
+- Data Analytics
 
 
