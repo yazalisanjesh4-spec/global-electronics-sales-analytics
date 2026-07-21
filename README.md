@@ -198,7 +198,7 @@ This project was created as part of my Data Analytics portfolio to demonstrate p
 - Product comparison
 - Country-level analysis
 
-👨‍💻 Author
+## 👨‍💻 Author
 Sanjesh Yazali
 
 Aspiring Data Analyst
