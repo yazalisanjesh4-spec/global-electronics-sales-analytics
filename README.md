@@ -1,9 +1,7 @@
 # 📊 Global Electronics Sales Analytics
 
-An interactive business analytics project developed using **Microsoft Excel** and **Power BI** to analyze sales performance, customer behavior, product performance, and regional trends for a global electronics retailer.
-![Microsoft Excel](https://shields.io)
-[![Power BI](https://shields.io)](https://powerbi.microsoft.com/)
-![Data Visualization](https://shields.io📊-blue?style=flat-square)
+>An interactive business analytics project developed using **Microsoft Excel** and **Power BI** to analyze sales performance, customer behavior, product performance, and regional trends for a global electronics retailer.
+
 
 
 ---
